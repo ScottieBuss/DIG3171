@@ -14,7 +14,7 @@ The results from both tools were vastly different for me, as a first time "dista
 
 ![Most common NFL terms from Voyant -videos, nfl, news, 2025, yard, football, play being the most common.](NFL.png)
 
-![]()
+![Response from when I asked Copilot how the Minnesota Vikings were mentioned on the NFL website compared to the other teams.](Copilot_NFL.png)
 
 This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
 
