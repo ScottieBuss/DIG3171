@@ -125,33 +125,88 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     <script> /* In the var immediately below, copy-paste your Tracery/CBDQ JSON between the {} brackets */
     var obj = {
 		"origin": [
-			"#Name# feels #Feeling# because of #Social_Media#",
-			"#Social Media# makes #Name# feel #Feeling#"
+			"In #timeframe#, researchers studying #platform# use among #group# found that #activity# via #feature# was #strength# linked to #effect#.",
+			"The study suggests that #context# interventions on #platform# could #direction# #effect#, especially when #group# #activity#."
 		],
-		"Social_Media": [
+		"platform": [
 			"Twitter",
 			"Instagram",
 			"TikTok",
 			"Facebook",
 			"YouTube",
-			"Snapchat"
+			"Snapchat",
+			"Discord",
+			"Reddit",
+			"Twitch"
 		],
-		"Name": [
-			"Luke",
-			"Scottie",
-			"Jack",
-			"Jake",
-			"Charlie",
-			"Josh"
+		"group": [
+			"high school students",
+			"college students",
+			"young adults",
+			"remote workers",
+			"content creators",
+			"international students",
+			"new parents"
 		],
-		"Feeling": [
-			"anxious",
-			"depressed",
-			"jealous",
-			"insecure",
-			"amused",
-			"entertained",
-			"happy"
+		"activity": [
+			"late night scrolling",
+			"doomscrolling",
+			"posting for social validation",
+			"participating in online challenges",
+			"comparing life/lifestyles with others",
+			"engaging it heated/hateful comment threads",
+			"tracking likes and followers",
+		]
+		"feature": [
+			"push notifications",
+			"streak/badge rewards",
+			"fear of missing out (FOMO)",
+			"parasocial interactions",
+			"auto-play",
+			"algorithm recommended loops"
+		]
+		"strength": [
+			"strongly",
+			"moderately",
+			"weakly",
+			"short-term",
+			"time of day dependent",
+			"age moderated",
+			"platform specific"
+		]
+		"effect": [
+			"anxiety levels",
+			"sleep quality",
+			"attention fatigue",
+			"mind wandering",
+			"self-esteem",
+			"stress",
+			"loneliness",
+			"body image"
+		]
+		"direction": [
+			"mitigate",
+			"reduce",
+			"stabalize",
+			"moderate",
+			"dampen",
+			"prevent escalation of"
+		]
+		"timeframe": [
+			"a holiday break",
+			"finals week",
+			"the first month of a semester",
+			"a high news volume week",
+			"summer break",
+			"a midterm exam period"
+		]
+		"context": [
+			"time management",
+			"sleep friendly routines",
+			"community guideline enforcement",
+			"mindful use",
+			"digital literacy",
+			"content curation"
 		]
 	}
 function generateString(rule) {
