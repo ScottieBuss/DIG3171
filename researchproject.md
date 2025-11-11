@@ -11,12 +11,14 @@ If it is easier to embed your project in an HTML file, just change the .md on th
 
 # Abstract
 
-Here is my abstract. 
+  My research project explores the effects social media has on the mental health of young adults, teenagers, and students. Using Voyant as my digit tool, I will use it to analyze a handful of articles and studies to see common patterns and keywords that connect social media and mental health. This research topic dives into the many benefits and negatives that come with excess use of social media in our youth. There is a positive correlation between extensive screen time and depressive symptoms, such as suicidal thoughts and aggression (Kanwal). There are still many positive outlooks on social media use, such as gaining information that might not readily be available otherwise, such as crucial medical information (Hearn). Social media and the internet are as big as ever, and it is only growing. This research highlights how constant online interaction can impact the mental health of our next generation. 
+
+  Many researchers and studies have found heavy social media use linked to higher levels of depression, loneliness, and poor sleep among young adults and teenagers (Saleem). The public narrative is that excessive exposure to social media causes increased mental health issues; however, it is quality over quantity (Berryman). Other research also notes that young adults and teenagers who spend more time online compared to less time are at greater risk of things such as body dissatisfaction and anxiety through social comparisons (Le Blanc-Brillon). The connection between social media and mental health is complex and varies from person to person, while some may experience serious negative effects as listed. Social media can also foster community, support, and creative expression. By using Voyant, I will be able to visualize word frequencies and relationships, showing how the discussion about mental health often focuses on the negatives. 
+
+  Hopefully this project illustrates how important it is to think critically about our digital habits and how social media and other online spaces seriously affect our mental and emotional health. It shows how technology can both greatly improve our lives and also harm it in today's society. 
 
 
 # Works Cited
-
-(add HTML code to do the hanging indentation, as seen below)
 
 <style>
   .works-cited {
