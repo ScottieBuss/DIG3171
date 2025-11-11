@@ -5,9 +5,9 @@ title: Research Project
 
 # My Final Research Project  
 
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer).
-You can link to your project here, or embed it.
-If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
+To see my Voyant final project
+[Click Here](https://voyant-tools.org/?corpus=edae3fcdbfb0671b47ab5594e87c2180&stopList=keywords-4392e3f3d2642f6f51f116580cf28bca&view=Cirrus)
+Be sure to see the other formats Voyant can show you!
 
 # Abstract
 
